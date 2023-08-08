@@ -1,0 +1,5 @@
+print("Hello World!", 7)
+print("Kajal")
+print(5)
+print("Bye!")
+print(16*2)

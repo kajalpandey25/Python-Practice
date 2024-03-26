@@ -1,0 +1,3 @@
+import kajal
+
+kajal.welcome()

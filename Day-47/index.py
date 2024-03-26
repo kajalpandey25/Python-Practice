@@ -12,9 +12,9 @@
 #   remove 3 random characters from start and end. Now remove the last letter and append it to the beginning
 # Your program should ask whether you want to code or decode
 
-st = input("Enter message")
+st = input("Enter message: ")
 words = st.split(" ")
-coding = input("1 for Coding or 0 for Decoding")
+coding = input("1 for Coding or 0 for Decoding: ")
 coding = True if (coding=="1") else False
 print(coding)
 if(coding):

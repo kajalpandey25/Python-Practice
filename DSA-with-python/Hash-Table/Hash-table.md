@@ -1,0 +1,1 @@
+Hash Table is very popular data structure. It allows to store key, value pairs and using key you can locate a value in o(1) or constant time. 
